@@ -29,16 +29,20 @@
 </tr>
 </table>
 <br><br>
+<h2 align="left">PDF</h2>
 <object width="100%" height="500px" data="http://devel.dinustech.com/aboe/materi/2021/PEM-WEB/minggu3/Minggu%203-Praktikum.pdf"></object>
 <br><br>
+<h3 align="left">AUDIO</h3>
 <audio controls>
 	<source src="Weee.mp3" type="audio/mp3">
 </audio>
 <br><br>
+<h4 align="left">VIDEO</h4>
 <video width="400" controls>
 	<source src="Iya iya iya.mp4" type="video/mp4">
 </video>
 <br><br>
+<h5 align="left">YOUTUBE</h5>
 <iframe width="420" height="315"
 	src="https://www.youtube.com/embed/NyuiouT2pj0">
 </iframe>
