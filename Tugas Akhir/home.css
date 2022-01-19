@@ -1,0 +1,75 @@
+.utama{
+    text-align: center;
+    align-items: center;
+}
+
+.tengah{
+    padding: 30px;
+}
+
+.tengah h2{
+    font-size: 35px;
+}
+
+.tengah h4{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 400px;
+}
+
+.tengah h4 , .tengah p{
+    font-weight: lighter;
+    letter-spacing: 1px;
+    width: 70%;
+    margin: 10px auto 0 auto;
+}
+
+.kotak{
+    background-color: #000000;
+    padding: 15px;
+    color: white;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.kotak a{
+    color: #18c018;
+}
+
+.kalender{
+    padding: 0;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    background: #616B4C;
+    width: 30%;
+    min-width: 250px;
+    border-radius: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.kalender #namaBulan{
+    background: black;
+    width: 100%;
+    border-radius: 10px 10px 1px 1px;
+    padding: 5px;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.kalender #namaHari{
+    margin-top: 25px;
+}
+
+.kalender #hariKe{
+    margin-top: 0;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.kalender #tahun{
+    font-size: 18px;
+    margin-top: 0;
+}
